@@ -22,4 +22,4 @@ x.name = "x"
 y.name = "y"
 z.name = "z"
 
-plot_dot_graph(z, verbose=False, to_file='goldenstein.png')
+plot_dot_graph(z, verbose=True, to_file='step26.png')
